@@ -1,0 +1,15 @@
+C:\Users\Надежда\source\repos\Lab_1_C#\Lab_1_C#\bin\Debug\net8.0\Lab_1_C#.exe
+C:\Users\Надежда\source\repos\Lab_1_C#\Lab_1_C#\bin\Debug\net8.0\Lab_1_C#.deps.json
+C:\Users\Надежда\source\repos\Lab_1_C#\Lab_1_C#\bin\Debug\net8.0\Lab_1_C#.runtimeconfig.json
+C:\Users\Надежда\source\repos\Lab_1_C#\Lab_1_C#\bin\Debug\net8.0\Lab_1_C#.dll
+C:\Users\Надежда\source\repos\Lab_1_C#\Lab_1_C#\bin\Debug\net8.0\Lab_1_C#.pdb
+C:\Users\Надежда\source\repos\Lab_1_C#\Lab_1_C#\obj\Debug\net8.0\Lab_1_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Надежда\source\repos\Lab_1_C#\Lab_1_C#\obj\Debug\net8.0\Lab_1_C#.AssemblyInfoInputs.cache
+C:\Users\Надежда\source\repos\Lab_1_C#\Lab_1_C#\obj\Debug\net8.0\Lab_1_C#.AssemblyInfo.cs
+C:\Users\Надежда\source\repos\Lab_1_C#\Lab_1_C#\obj\Debug\net8.0\Lab_1_C#.csproj.CoreCompileInputs.cache
+C:\Users\Надежда\source\repos\Lab_1_C#\Lab_1_C#\obj\Debug\net8.0\Lab_1_C#.sourcelink.json
+C:\Users\Надежда\source\repos\Lab_1_C#\Lab_1_C#\obj\Debug\net8.0\Lab_1_C#.dll
+C:\Users\Надежда\source\repos\Lab_1_C#\Lab_1_C#\obj\Debug\net8.0\refint\Lab_1_C#.dll
+C:\Users\Надежда\source\repos\Lab_1_C#\Lab_1_C#\obj\Debug\net8.0\Lab_1_C#.pdb
+C:\Users\Надежда\source\repos\Lab_1_C#\Lab_1_C#\obj\Debug\net8.0\Lab_1_C#.genruntimeconfig.cache
+C:\Users\Надежда\source\repos\Lab_1_C#\Lab_1_C#\obj\Debug\net8.0\ref\Lab_1_C#.dll

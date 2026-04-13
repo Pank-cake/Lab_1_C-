@@ -1,0 +1,15 @@
+C:\Users\Надежда\source\repos\Lab_1.23_C#\Lab_1.23_C#\bin\Debug\net8.0\Lab_1.23_C#.exe
+C:\Users\Надежда\source\repos\Lab_1.23_C#\Lab_1.23_C#\bin\Debug\net8.0\Lab_1.23_C#.deps.json
+C:\Users\Надежда\source\repos\Lab_1.23_C#\Lab_1.23_C#\bin\Debug\net8.0\Lab_1.23_C#.runtimeconfig.json
+C:\Users\Надежда\source\repos\Lab_1.23_C#\Lab_1.23_C#\bin\Debug\net8.0\Lab_1.23_C#.dll
+C:\Users\Надежда\source\repos\Lab_1.23_C#\Lab_1.23_C#\bin\Debug\net8.0\Lab_1.23_C#.pdb
+C:\Users\Надежда\source\repos\Lab_1.23_C#\Lab_1.23_C#\obj\Debug\net8.0\Lab_1.23_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Надежда\source\repos\Lab_1.23_C#\Lab_1.23_C#\obj\Debug\net8.0\Lab_1.23_C#.AssemblyInfoInputs.cache
+C:\Users\Надежда\source\repos\Lab_1.23_C#\Lab_1.23_C#\obj\Debug\net8.0\Lab_1.23_C#.AssemblyInfo.cs
+C:\Users\Надежда\source\repos\Lab_1.23_C#\Lab_1.23_C#\obj\Debug\net8.0\Lab_1.23_C#.csproj.CoreCompileInputs.cache
+C:\Users\Надежда\source\repos\Lab_1.23_C#\Lab_1.23_C#\obj\Debug\net8.0\Lab_1.23_C#.sourcelink.json
+C:\Users\Надежда\source\repos\Lab_1.23_C#\Lab_1.23_C#\obj\Debug\net8.0\Lab_1.23_C#.dll
+C:\Users\Надежда\source\repos\Lab_1.23_C#\Lab_1.23_C#\obj\Debug\net8.0\refint\Lab_1.23_C#.dll
+C:\Users\Надежда\source\repos\Lab_1.23_C#\Lab_1.23_C#\obj\Debug\net8.0\Lab_1.23_C#.pdb
+C:\Users\Надежда\source\repos\Lab_1.23_C#\Lab_1.23_C#\obj\Debug\net8.0\Lab_1.23_C#.genruntimeconfig.cache
+C:\Users\Надежда\source\repos\Lab_1.23_C#\Lab_1.23_C#\obj\Debug\net8.0\ref\Lab_1.23_C#.dll
