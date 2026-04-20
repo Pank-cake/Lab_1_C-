@@ -30,7 +30,7 @@
 
 ### Тестирование
 
-![](https://github.com/Pank-cake/Lab_2/blob/main/Test/Test1.PNG)
+<img width="437" height="141" alt="Test1" src="https://github.com/user-attachments/assets/5862f96b-b45a-444d-bcc5-8ac70419e76e" />
 
 
 # Задание 2. Перегрузка операций
@@ -87,4 +87,5 @@ double(явная) – результатом является координа�
 
 ### Тестирование
 
-![](https://github.com/Pank-cake/Lab_2/blob/main/Test/Test2.PNG)
+<img width="510" height="235" alt="Test23" src="https://github.com/user-attachments/assets/70013039-5420-42c9-8fab-c526d5008039" />
+
